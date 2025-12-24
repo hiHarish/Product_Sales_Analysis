@@ -1,5 +1,3 @@
-# Product_Sales_Analysis
-
 # Product Sales Intelligence & KPI Analytics (USA Market Edition)
 
 ## 📌 Project Overview
